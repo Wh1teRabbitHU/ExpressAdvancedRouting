@@ -1,6 +1,6 @@
 {
   "name": "express-advanced-routing",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Advanced routing helper for express.js",
   "main": "index.js",
   "repository": {
